@@ -15,17 +15,17 @@ The 'wheel' is numbered clockwise:
 
 The bets taken are:
 
-Odds
+Payout
 35 to 1:  straight - bet on single number
 
 11 to 1:  street - bet on 3 consecutive numbers (7,8,9)
 2 to 1:   column bet (a 12 number bet)
+2 to 1:   snake bet (numbers 1, 5, 9, 12, 14, 16, 19, 23, 27, 30, 32, and 34)
 
 1 to 1:   1 to 18 (low), or 19 to 36 (high)
 1 to 1:   red or black
 1 to 1:   even or odd
 
-snake bet (numbers 1, 5, 9, 12, 14, 16, 19, 23, 27, 30, 32, and 34)
 For the snake bet, a diagram may be needed for the user to understand the name of the bet, as the numbers are serpentine in their arrangement on a roulette table. This seems like it would be a fun bet to try to implement in the program. If a user can play more numbers at a time, roulette is more fun.
 
 Commands for bets will begin with '!'. So, '!5 red' will be a bet of $5 on red. Special commands like '!all red' will be considered.
